@@ -1,0 +1,52 @@
+Speed is key!
+
+And we all know it :p That's why we built the universal Nitro Engine: Works on every device, produce huge acceleration and allow better air control!
+Buy it now! Or get it for free if you are a goat ;)
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Nitro Engine: You can use Nitro boost when driving.
+- Garage: All your vehicles ready to use.
+
+[b]COMMANDS[/b]
+[h1]Nitro Engine[/h1]
+- [b][Shift]:[/b] Hold for Nitro.
+- [b][RightClick]:[/b] Hold for air strafe.
+[h1]Garage[/h1]
+- [b]Ragdoll + [Ctrl]:[/b] Change vehicle type.
+- [b][RightClick] + [R]:[/b] Get the vehicle of the current type in your garage.
+- [b][RightClick]:[/b] Add the vehicle you lick to your garage.
+
+[b]GAMEPAD COMMANDS[/b]
+[h1]Nitro Engine[/h1]
+- [b][RT]:[/b] Hold for Nitro.
+- [b][LT]:[/b] Hold for air strafe.
+[h1]Garage[/h1]
+- [b]Ragdoll + [DPadDown]:[/b] Change vehicle type.
+- [b][LT] + [R]:[/b] Get the vehicle of the current type in your garage.
+- [b][LT]:[/b] Add the vehicle you lick to your garage.
+
+[b]CHARACTERISTICS[/b]
+[h1]Nitro Engine[/h1]
+- As long as Nitro is active, your vehicle will get a forward boost.
+- When air strafe is active you can rotate your vehicle as you wish using the movement keys.
+[h1]Garage[/h1]
+- Your garage can only contain one vehicle of each type (if you add a vehicle it will replace the old one).
+- Only one vehicle is created by garage, then this vehicle is teleported to you when you want it.
+- You can't get a vehicle if a player is currently using it.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Use air strafe along with nitro and you may be able to make any vehicle fly ;)[/spoiler]
+- [spoiler]The Shopping Goat is also a vehicle...[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- You can sometimes be kicked out of the vehicle when doing aerial moves.
+- The speed line effect can be glitchy when you use nitro when you are stuck.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]The request for this mod was made long ago, and I was really interested in it because I noticed that most of my mods were not working fine when you control a cehicle, so I wanted to know if it was possible for me to make a mutator that actually have an effect on them ^^
+The answer is obviously "yes" :p So here is the nitro engine, adding velocity to your vehicle on a simple keypress. That part of the mod was quite easy, I only had some trouble to make the visual effects of the nitro be oriented in the right direction, but I found a workaround.
+Anyway, when testing the mod I found that having to walk every time to find a bicycle or a longboard was really annoying >_< And I remembered someone asking for a way to spawn a longboard and hold it on your back... That's why I created the Garage mutator :p Basically a quick way to get any vehicle on any map ;)
+Finally, as the stuff I started to do with vehicles was working fine, I decided to add another requested feature to the Nitro Engine: the air strafe. Basically, the ability to make air moves in vehicles (like what you can do with your goat).
+[/quote]
